@@ -1,5 +1,3 @@
-# if-ai-web
-Official website for Infinite Factorial (IF.ai) - Powering logistics, finance, and cosmic compute with fractal intelligence
 # IF.ai Web
 Official website for Infinite Factorial (IF.ai) - Powering logistics, finance, and cosmic compute with fractal intelligence.
 
